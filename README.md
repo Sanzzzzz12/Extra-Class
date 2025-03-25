@@ -1,2 +1,0 @@
-# Extra-Class
-QA Classes
